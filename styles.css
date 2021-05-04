@@ -1,0 +1,11 @@
+#canvas1{
+	border: black solid 1px;
+	width: 1200px;
+	height: 600px;
+	position: absolute;
+}
+body{
+	width: 1200px;
+	height: 600px;
+	margin: 5% auto;
+}
